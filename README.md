@@ -1,4 +1,4 @@
-# 1.  🐍 Python OOP: Abstract Class & Method Example
+# 1.Python OOP: Abstract Class & Method Example
 
 ## 🎯 AIM
 
@@ -70,7 +70,7 @@ print("Area of a triangle:", t.area())
 ## Result
 Thus the program to create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle is executed successfully.
 
-# 2. 🐍 Python OOP: Encapsulation with Private Members
+# 2.Python OOP: Encapsulation with Private Members
 
 ## 🎯 AIM
 
@@ -113,7 +113,7 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ## Result
 Thus the program has been verified successfully
 
-# 3.  🐟 Method Overriding-Fish and Shark Class Inheritance in Python
+# 3.Method Overriding-Fish and Shark Class Inheritance in Python
 
 ## 🧠 AIM:
 To write a Python program that demonstrates class inheritance by creating a parent class `Fish` with a method `type`, and a child class `Shark` that overrides the `type` method.
@@ -150,7 +150,7 @@ obj_hammerhead.type()
 ## RESULT
 Thus the program has been verified successfully
 
-# 4.  🐍 Python OOP: Operator Overloading (Less Than `<`)
+# 4.Python OOP: Operator Overloading (Less Than `<`)
 
 ## 🎯 AIM
 
@@ -197,7 +197,7 @@ else:
 ## Result
 Thus the program has been verified successfully
 
-# # 5.  🐍 Python OOP: Polymorphism with Classes
+# # 5.Python OOP: Polymorphism with Classes
 
 ## 🎯 AIM
 
